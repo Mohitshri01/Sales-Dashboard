@@ -14,8 +14,15 @@ This project involves the analysis of sales data using **Power BI**. The objecti
 - **SalesData.pbix**: Power BI file containing dashboards and reports.
 - **SalesData.xlsx**: Raw sales data file (in Excel format).
 
-## 🖼️ Screenshot
-![Sales Data Analysis Dashboard]([./Screenshot%201.png](https://github.com/Mohitshri01/Sales-Dashboard/blob/main/Sales%20Dashboard/Screenshot%201.png))
+## 🖼️ Sales Data Analysis Dashboard Screenshot
+### Screenshot 1:
+![Screenshot 1](https://github.com/Mohitshri01/Sales-Dashboard/blob/main/Sales%20Dashboard/Screenshot%201.png)
+
+### Screenshot 2:
+![Screenshot 2](https://github.com/Mohitshri01/Sales-Dashboard/blob/main/Sales%20Dashboard/Screenshot%202.png)
+
+### Screenshot 3:
+![Screenshot 3](https://github.com/Mohitshri01/Sales-Dashboard/blob/main/Sales%20Dashboard/Screenshot%203.png)
 
 
 ## 💡 Insights & Key Findings
